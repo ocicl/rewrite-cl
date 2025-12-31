@@ -1,0 +1,10 @@
+* rewrite-cl
+
+A Common Lisp library for reading, modifying, and writing Lisp source
+code while preserving whitespace, comments, and formatting.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/atgreen/rewrite-cl |
+| commit  | 4d3281c                                   |
+| systems | rewrite-cl                                |
+|---------+-------------------------------------------|
