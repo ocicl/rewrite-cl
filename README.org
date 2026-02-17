@@ -5,6 +5,6 @@ code while preserving whitespace, comments, and formatting.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/atgreen/rewrite-cl |
-| commit  | 5832ac0                                   |
+| commit  | 3596a83                                   |
 | systems | rewrite-cl                                |
 |---------+-------------------------------------------|
